@@ -5,7 +5,7 @@
 - RFM 기법
 
 ## clustring.ipynp
-### 군집화
+- 군집화
 
 ## clf.ipynb
-### 분류
+- 분류
