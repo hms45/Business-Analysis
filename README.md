@@ -1,8 +1,8 @@
 ## analysis.ipynb
-### EDA
+- EDA
 
 ## rfm.ipynb
-### RFM 기법
+- RFM 기법
 
 ## clustring.ipynp
 ### 군집화
